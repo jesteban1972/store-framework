@@ -29,11 +29,15 @@
     padding: 0;
 }
 
-.vtex-store-components-3-x-infoCardHeadline {
+.infoCardHeadline {
     color: black;
     font-weight: bold;
 }
 
-.vtex-store-components-3-x-infoCardHeadline:hover {
+.infoCardHeadline:hover {
     background-color: white;
+}
+
+.infoCardContainer--metal {
+    background-color: #e1e1e1;
 }
