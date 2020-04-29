@@ -35,6 +35,7 @@
   }
 
   "irrelevant-object": {
-    "testing": true
+    "testing": true,
+    "status": "in developement"
   }
 }
